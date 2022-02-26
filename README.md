@@ -19,11 +19,14 @@ https://github.com/LavaGang/MelonLoader/releases/latest/
 3. Download the mod (latest release) by clicking [here](https://github.com/mokojm/Townscaper-PlantColor/releases/download/v0.8.0/PlantsColor.zip)
 
 4. Extract all the files from "PlantsColor.zip" into your games Mods folder.
-	! WARNING ! If you had already "ModUI.dll" copied it will replace the original one.
 
-5. Start the game !
+5. Download the utility mod "ModUI" (latest release) from: https://github.com/DigitalzombieTLD/TownscaperModUI/releases/latest/
 
-6. The menu can be found here :
+6. Extract the all files from the ModUI download into your games Mods folder
+
+7. Start the game !
+
+8. The menu can be found here :
 <p align="center">
 <a href="./Mod_use.gif">
 <img src="./Mod_use.gif" alt="PlantColorUse">
