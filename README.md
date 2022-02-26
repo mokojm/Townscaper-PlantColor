@@ -18,7 +18,7 @@ https://github.com/LavaGang/MelonLoader/releases/latest/
 
 3. Download the mod (latest release) by clicking [here](https://github.com/mokojm/Townscaper-PlantColor/releases/download/v0.8.0/PlantsColor.zip)
 
-4. Extract all the files from "BirdMod.zip" into your games Mods folder.
+4. Extract all the files from "PlantsColor.zip" into your games Mods folder.
 	! WARNING ! If you had already "ModUI.dll" copied it will replace the original one.
 
 5. Start the game !
